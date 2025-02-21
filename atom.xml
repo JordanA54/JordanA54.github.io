@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2025-02-14T08:39:42.377Z</updated>
+  <updated>2025-02-21T06:17:34.969Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>ISO/IEC 27001(2022) 绩效部分</title>
+    <link href="http://example.com/2025/02/20/ISO-IEC-27001-2022-%E7%BB%A9%E6%95%88%E9%83%A8%E5%88%86/"/>
+    <id>http://example.com/2025/02/20/ISO-IEC-27001-2022-%E7%BB%A9%E6%95%88%E9%83%A8%E5%88%86/</id>
+    <published>2025-02-20T09:26:18.000Z</published>
+    <updated>2025-02-21T06:17:34.969Z</updated>
+    
+    <content type="html"><![CDATA[<p>该版本是ISO&#x2F;IEC 27001(2022)最新版本，下面我结合自己的工作经验结合翻译工具翻译“绩效”部分的内容，以便自己进一步理解，下文为对照原英文官方文档逐渐行翻译。</p><p><strong>绩效部分目录：</strong></p><p><strong>9 Performance evaluation</strong> <strong>#绩效评估</strong></p><p>​<strong>9.1 Monitoring,measurement, analysis and evaluation #监测，测试，分析和评估</strong></p><p>​<strong>9.2 Internal audit #内部审计</strong></p><p>​<strong>9.2.1 General #通则</strong></p><p>​<strong>9.2.2 Internal audit program me #内部审核计划</strong></p><p>​<strong>9.3 Management review #管理层审查</strong></p><p>​<strong>9.3.1 General #通则</strong></p><p>​<strong>9.3.2 Management review inputs #如何管理审查</strong></p><p>​<strong>9.3.3 Management review results #管理审查结果</strong></p><hr><h6 id="9-Performance-evaluation-绩效评估"><a href="#9-Performance-evaluation-绩效评估" class="headerlink" title="9 Performance evaluation #绩效评估"></a><strong>9 Performance evaluation</strong> <strong>#绩效评估</strong></h6><p><strong>9.1 Monitoring, measurement, analysis and evaluation #监测，测试，分析和评估</strong></p><p>The organization shall determine: #公司应该确定：<br>a) what needs to be monitored and measured, including information security processes and controls;</p><p>a) 需要被监测和测试的内容，包括信息安全流程和控制措施；</p><p>b) the methods for monitoring, measurement, analysis and evaluation, as applicable, to ensure<br>valid results. The methods selected should produce comparable and reproducible results to be<br>considered valid;</p><p>b) 应该选择适用的监测、测试、分析和评估的方法，以确保结果的有效性。所选的方法应当能够产生可比较且可重复的结果，才能被视为有效；</p><p>c) when the monitoring and measuring shall be performed;</p><p>c) 何时进行监测和测试；</p><p>d) who shall monitor and measure;</p><p>d）谁负责监测和测试；</p><p>e) when the results from monitoring and measurement shall be analysed and evaluated;</p><p>e）什么时候对监测和测试的结果进行评估；</p><p>f) who shall analyse and evaluate these results.</p><p>f）谁负责分析和评估结果。</p><p>Documented information shall be available as evidence of the results.<br>The organization shall evaluate the information security performance and the effectiveness of the<br>information security management system.</p><p>应该保留文件化信息作为相关结果的证据。公司应该评估信息安全绩效和信息安全管理体系的有效性。</p><p><strong>9.2 Internal audit #内部审计</strong><br><strong>9.2.1 General #通则</strong><br>The organization shall conduct internal audits at planned intervals to provide information on whether<br>the information security management system:</p><p>公司应按计划的时间间隔进行内部审核，以判断信息安全管理体系是否：</p><p>a) conforms to #符合</p><p>​1）the organization’s own requirements for its information security management system;</p><p>​公司对信息安全管理体系的自身要求；</p><p>​2）the requirements of this document;</p><p>​本文档要求；</p><p>b) is effectively implemented and maintained。</p><p>​有效得实施和维护。</p><p><strong>9.2.2 Internal audit programme</strong> <strong>#内部审核计划</strong></p><p>The organization shall plan, establish, implement and maintain an audit programme(s), including the </p><p>frequency, methods, responsibilities, planning requirements and reporting. </p><p>公司应该计划、建立、实施并维护一个或多个审核方案，包括审核的频率、方法、职责、策划要求和报告。</p><p>When establishing the internal audit programme(s), the organization shall consider the importance of </p><p>the processes concerned and the results of previous audits. </p><p>在建立一个或多个内部审核方案时，公司应该考虑相关过程的重要性以及以往审核的结果。</p><p>The organization shall: #公司应该这样做</p><p>a) define the audit criteria and scope for each audit;</p><p>a）公司定义每次审核的审核标准和范围；</p><p>b) select auditors and conduct audits that ensure objectivity and the impartiality of the audit process;</p><p>b)公司选择审计人员并进行审计，以确保审计过程的客观性和公正性；</p><p>c) ensure that the results of the audits are reported to relevant management;</p><p>c）审计人员确保将审计结果报告给相关的管理层；</p><p>Documented information shall be available as evidence of the implementation of the audit programme(s) </p><p>and the audit results.</p><p>审核员应该提供文件化的信息作为执行审核计划和审核结果的证据。</p><p><strong>9.3 Management review</strong> <strong>#管理层审查</strong></p><p><strong>9.3.1 General</strong> <strong>#通则</strong></p><p>Top management shall review the organization’s information security management system at planned </p><p>intervals to ensure its continuing suitability, adequacy and effectiveness.</p><p>高级管理层应该按计划的时间间隔审查公司的信息安全管理体系，以确保其持续的适宜性、充分性和有效性。</p><p><strong>9.3.2 Management review inputs</strong>  <strong>#如何管理审查</strong></p><p>The management review shall include consideration of:</p><p>管理评审应该包括对以下方面的考虑：</p><p>a) the status of actions from previous management reviews;</p><p>以往管理评审所采取措施的状态；</p><p>b) changes in external and internal issues that are relevant to the information security management</p><p>system;</p><p>b）信息安全管理体系相关的外部和内部问题的变化；</p><p>c) changes in needs and expectations of interested parties that are relevant to the information</p><p>security management system; #</p><p>c）信息安全管理体系相关的需求和期望的变化；</p><p>d) feedback on the information security performance, including trends in:</p><p>d）信息安全绩效的反馈，包括以下趋势：</p><p>​1）nonconformities and corrective actions;</p><p>​不合格和纠正措施；</p><p>​2）monitoring and measurement results;</p><p>​监测和测试的结果；</p><p>​3）audit results;</p><p>​审计结果；</p><p>​4）fulfilment of information security objectives;</p><p>​实现信息安全目标；</p><p>e) feedback from interested parties;</p><p>e）各方的反馈；</p><p>f) results of risk assessment and status of risk treatment plan;</p><p>f）风险评估结果和风险修复计划的状况；</p><p>g) opportunities for continual improvement。</p><p>g）如何改进。</p><p><strong>9.3.3 Management review results</strong> <strong>#管理审查的结果</strong></p><p>The results of the management review shall include decisions related to continual improvement </p><p>opportunities and any needs for changes to the information security management system.</p><p>Documented information shall be available as evidence of the results of management reviews.</p><p>管理评审的结果应该包括与持续改进机会相关的决策以及对信息安全管理体系（ISMS）的变更需求。应保留形成文件的信息作为管理评审结果的证据。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;该版本是ISO&amp;#x2F;IEC 27001(2022)最新版本，下面我结合自己的工作经验结合翻译工具翻译“绩效”部分的内容，以便自己进一步理解，下文为对照原英文官方文档逐渐行翻译。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;绩效部分目录：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;stron</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>我的第一篇文章</title>
